@@ -1,3 +1,3 @@
-all KINDA OK
+all RIGHT
 
 new test
