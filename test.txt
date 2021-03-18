@@ -3,3 +3,5 @@ all RIGHT
 new stuff from awesome branch!
 
 new test
+
+first stuff from feature three
