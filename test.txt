@@ -6,3 +6,4 @@ new test
 
 first stuff from feature three
 second stuff from feature three
+third stuff from feature three
