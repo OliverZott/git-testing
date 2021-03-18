@@ -7,3 +7,6 @@ second new feature from F2-newstuff
 new test
 
 newer test from testing branch
+first stuff from feature three
+second stuff from feature three
+third stuff from feature three
